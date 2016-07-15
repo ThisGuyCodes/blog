@@ -1,0 +1,3 @@
+[submodule "themes/forthebass"]
+	path = themes/forthebass
+	url = git@github.com:thisguycodes/forthebass.git

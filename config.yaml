@@ -1,0 +1,32 @@
+baseurl: https://thisguy.codes/
+languageCode: en-us
+title: ThisGuy Codes
+theme: forthebass
+Paginate: 10
+
+log: true
+watch: true
+disableLiveReload: true
+
+disableSitemap: false
+disableRSS: false
+relativeURLs: false
+enableRobotsTXT: true
+metaDataFormat: json
+paginatePath: page
+
+publishdir: public
+defaultLayout: post
+defaultExtension: html
+
+pygmentsStyle: monokai
+
+googleAnalytics: UA-78968092-2
+disqusShortname: thisguycodes
+
+params:
+  Author: Travis Johnson
+  twitterName: conslo
+  githubName: conslo
+  description: I Code
+...
